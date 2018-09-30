@@ -1,0 +1,9 @@
+# python -V 
+# python3.6.1 
+
+1、微信头像拼图：
+ 先执行 getHeadImgs1.py 爬取所有微信好友的头像照片
+ 再执行 createMgs2.py 将所有图片 组装成一张 *.jpg的图片
+
+2、微信自动回复
+ 调用itchat 接口，实现机器人自动回复
